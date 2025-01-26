@@ -1,0 +1,5 @@
+﻿  SumaArreglosParalela.cpp
+C:\Users\JHAMYR\source\repos\proyectosOMP\SumaArreglosParalela\SumaArreglosParalela.cpp(21,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JHAMYR\source\repos\proyectosOMP\SumaArreglosParalela\SumaArreglosParalela.cpp(22,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\JHAMYR\source\repos\proyectosOMP\SumaArreglosParalela\SumaArreglosParalela.cpp(17,9): warning C4101: 'i': variable local sin referencia
+  SumaArreglosParalela.vcxproj -> C:\Users\JHAMYR\source\repos\proyectosOMP\SumaArreglosParalela\x64\Debug\SumaArreglosParalela.exe
